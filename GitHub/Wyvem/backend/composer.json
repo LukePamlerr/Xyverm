@@ -1,0 +1,14 @@
+{
+  "name": "wyvem/backend",
+  "description": "Wyvem backend scaffold (Laravel-compatible)",
+  "require": {
+    "php": ">=8.1"
+  }
+}
+{
+  "name": "wyvem/backend",
+  "description": "Wyvem backend scaffold (Laravel-compatible)",
+  "require": {
+    "php": ">=8.1"
+  }
+}

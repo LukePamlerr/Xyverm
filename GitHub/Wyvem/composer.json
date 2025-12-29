@@ -1,0 +1,14 @@
+{
+  "name": "wyvem/panel",
+  "description": "Wyvem — Pterodactyl-compatible control panel (scaffold)",
+  "require": {
+    "php": ">=8.1"
+  }
+}
+{
+  "name": "wyvem/panel",
+  "description": "Wyvem — Pterodactyl-compatible control panel (scaffold)",
+  "require": {
+    "php": ">=8.1"
+  }
+}
