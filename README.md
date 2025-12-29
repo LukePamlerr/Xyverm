@@ -20,4 +20,4 @@ This scaffold is NOT a finished panel. It provides:
 - Stubs for a Laravel backend and Vue frontend.
 - Documentation and an SSO feature plan.
 
-See docs at (https://github.com/LukePamlerr/Wyvem/tree/main/GitHub/Wyvem/docs)[Official Installation guide for Linux - Ubuntu , CentOS, Debian, and Windows 11+]
+See docs at (https://github.com/LukePamlerr/Wyvem/tree/main/GitHub/Wyvem/docs) [Official Installation guide for Linux - Ubuntu , CentOS, Debian, and Windows 11+]
